@@ -12,3 +12,7 @@
 ## 联系我们
 
 请发送邮件至 zhangkuan523@163.com 与我们联系。我们会尽快进行回复！
+
+## 屏幕截图
+
+![](https://user-images.githubusercontent.com/5158525/186382299-1ddf47d5-fbd0-4f65-a02f-6298ffa66b98.png)
